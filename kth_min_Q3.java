@@ -1,4 +1,4 @@
-public class kth_min {
+public class kth_min_Q3 {
     public static int[] sort(int sarr[]) {
         for (int i = 0; i < sarr.length; i++) {
             for (int j = 0; j < sarr.length-i-1; j++) {

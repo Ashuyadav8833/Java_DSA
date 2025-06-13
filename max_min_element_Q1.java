@@ -1,4 +1,4 @@
-class max_min_element {
+class max_min_element_Q1 {
     public static void main(String[] args) {
         int arr[] = {21,11,28,34,6,9,69};
         int max,min;

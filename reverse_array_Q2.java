@@ -1,4 +1,4 @@
-public class reverse_array {
+public class reverse_array_Q2 {
     public static void main(String[] args) {
         int arr[] = {21, 11, 28, 34, 6, 9, 69};
         int n = arr.length;
